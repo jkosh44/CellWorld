@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Hadouken
+  - Myleg
+  - Mitochondria
+  - Centriole
+  - Nucleus
+  - Peroxisome
+  - Endoplasmic_Reticulum
+  - Golgi
+  - Enemy_Projectile
+  - Lysosome
+  - Bullet
+  - findbutton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Projectiles
+  - Checkpoints
+  - Collectibles
+  - boss
+  - boss projectile
+  - enemy
+  - character
+  - invincible character
+  - platform
+  - Character Projectiles
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Cell
+    uniqueID: 248889827
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3803332587
+    locked: 0

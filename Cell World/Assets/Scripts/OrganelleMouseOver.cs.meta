@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 71fd54d4b5694144ba7783ecbcbdc1b5
+timeCreated: 1492973084
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - img: {instanceID: 0}
+  - mitochondria: {instanceID: 0}
+  - centriole: {instanceID: 0}
+  - golgi: {instanceID: 0}
+  - endo: {instanceID: 0}
+  - nucleus: {instanceID: 0}
+  - peroxisome: {instanceID: 0}
+  - lysosome: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
